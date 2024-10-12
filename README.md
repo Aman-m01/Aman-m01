@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8dffcc&random=false&width=535&lines=%E2%9C%A8+Hi%2C+I'm+Aman+Maurya.+Let's+Connect" alt="Typing SVG" />
    
 </h1>
-<h3 align="center">🧑‍💻 I’m currently learning MERN Full Stack Development</h3>
+<h3 align="center">🧑‍💻 I’m currently learning Full Stack Development</h3>
 
-## 🛠 Tech Stack
+## 🛠 Languages ans Tools
 
 <p align="center"> <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer"> <img src="https://imgs.search.brave.com/SXbWYM5mDlFkHoPfTtkuqMg2z0yKI64s7dvGYMsCYrM/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/amF2YXRwb2ludC5j/b20vc3RhdGljL2lt/Zy9jLS5wbmc" alt="c" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
